@@ -1,0 +1,2 @@
+# myWorld
+ideas and stuff
